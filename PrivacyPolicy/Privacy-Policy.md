@@ -32,8 +32,7 @@ We use the information to understand and analyze the usage trends and preference
 ## License monitoring*
 We use the information to check for license violations, e.g. a per-computer license file is used on more than one computer (regardless of whether the Application is used at different times or concurrently).
 
-**\* Please note:  Microsoft Store Licenses: NO PERSONALLY IDENTIFIABLE INFORMATION IS USED. 
-Other Licenses: Your user identifier (=license key or license file id) is included with the collected data. This personally identifiable information is necessary in order to provide you the service.**
+**\* Please note: Microsoft Store Licenses:** NO PERSONALLY IDENTIFIABLE INFORMATION IS USED. **Other Licenses:** Your user identifier (=license key or license file id) is included with the collected data. This personally identifiable information is necessary in order to provide you the service.
 
 # What choices do I have?
 By using the Application, you are consenting to the collection of information as set forth in this Privacy Policy. You can stop all collection of information by the Application easily by uninstalling the Application.
